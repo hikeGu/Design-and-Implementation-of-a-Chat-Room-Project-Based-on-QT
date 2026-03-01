@@ -1,0 +1,14 @@
+debug/chatmanager.o
+debug/databasemanager.o
+debug/filetransfermanager.o
+debug/filetransferserver.o
+debug/main.o
+debug/mainwindow.o
+debug/server.o
+debug/usermanager.o
+debug/moc_chatmanager.o
+debug/moc_filetransfermanager.o
+debug/moc_filetransferserver.o
+debug/moc_mainwindow.o
+debug/moc_server.o
+debug/moc_usermanager.o

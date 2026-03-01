@@ -1,0 +1,14 @@
+release/chatmanager.o
+release/databasemanager.o
+release/filetransfermanager.o
+release/filetransferserver.o
+release/main.o
+release/mainwindow.o
+release/server.o
+release/usermanager.o
+release/moc_chatmanager.o
+release/moc_filetransfermanager.o
+release/moc_filetransferserver.o
+release/moc_mainwindow.o
+release/moc_server.o
+release/moc_usermanager.o

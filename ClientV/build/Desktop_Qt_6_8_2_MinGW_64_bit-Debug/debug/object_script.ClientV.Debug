@@ -1,0 +1,11 @@
+debug/client.o
+debug/filetransfer.o
+debug/historywindow.o
+debug/main.o
+debug/mainwindow.o
+debug/voicechatclient.o
+debug/moc_client.o
+debug/moc_filetransfer.o
+debug/moc_historywindow.o
+debug/moc_mainwindow.o
+debug/moc_voicechatclient.o

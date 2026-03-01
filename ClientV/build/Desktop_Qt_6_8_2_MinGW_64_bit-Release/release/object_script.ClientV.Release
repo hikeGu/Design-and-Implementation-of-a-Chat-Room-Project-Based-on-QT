@@ -1,0 +1,11 @@
+release/client.o
+release/filetransfer.o
+release/historywindow.o
+release/main.o
+release/mainwindow.o
+release/voicechatclient.o
+release/moc_client.o
+release/moc_filetransfer.o
+release/moc_historywindow.o
+release/moc_mainwindow.o
+release/moc_voicechatclient.o
