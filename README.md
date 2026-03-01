@@ -17,6 +17,6 @@ Second: Voice transmission, which is the voice chat function, also specifically 
 Third: Binary data transmission, which is the file transfer function, also specifically used a TCPServer.                 
             
 What? You're asking why you can't understand the chat function code? Sorry, initially I only thought of using one server to solve all the problems,
-so you see AI-assisted chat, chat history, user management, etc., all integrated into this one server. Just kidding,                
+so you see AI-assisted chat, chat history, user management, etc., all integrated into this one server. Just kidding,
 actually, even the last two modules were split from the first module QWQ               
               
